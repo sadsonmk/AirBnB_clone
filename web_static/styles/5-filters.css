@@ -25,10 +25,11 @@ button:hover {
 }
 
 .locations, .amenities {
-	display: inline-block;
+
+	float: left;
 	height: 100%;
 	width: 25%;
-	margin-left: 5%;
+	padding-left: 20px;
 }
 .locations {
 	border-right: 1px solid #DDDDDD;
