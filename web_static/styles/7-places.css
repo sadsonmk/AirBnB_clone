@@ -1,0 +1,22 @@
+/* styling places */
+
+h1.places {
+	position: relative;
+	font-size: 30px;
+	top: 0px;
+	left: 0px;
+}
+
+section.places > article {
+	width: 390px;
+	padding: 20px;
+	margin: 20px;
+	border: 1px #FF5A5F;
+	border-radius: 4px;
+
+}
+
+section.places > article > h2 {
+	font-size: 30px;
+	margin: 0px auto;
+}
